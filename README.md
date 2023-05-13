@@ -1,4 +1,9 @@
-### Hi there 👋
+### savvy chezhian!
+i'm a computer science major at the university of texas at austin.
+
+here's my site: https://svvc.dev
+and my [devpost](https://devpost.com/savvychez)
+
 
 <!--
 **savvychez/savvychez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
