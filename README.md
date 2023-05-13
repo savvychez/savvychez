@@ -1,7 +1,5 @@
 ### savvy chezhian!
-i'm a computer science major at the university of texas at austin.
-
-you can check out some of my work at [my site](https://svvc.dev)
+i'm a computer science major at the university of texas at austin. you can check out some of my work at [my site](https://svvc.dev)
 or on my [devpost!](https://devpost.com/savvychez)
 
 
