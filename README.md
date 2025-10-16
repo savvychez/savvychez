@@ -1,4 +1,4 @@
-### savvy chezhian!
+### sarvesh chezhian!
 i'm a computer science major at the university of texas at austin. i'm particularly interested in full stack development and robotics. you can check out some of my work at [my site](https://svvc.dev)
 or on my [devpost!](https://devpost.com/savvychez)
 
